@@ -155,4 +155,4 @@ def Run(params):
 
 if __name__ == '_main__':
     params = read_input("kmc.in")
-    main(params)
+    Run(params)
