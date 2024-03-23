@@ -1,0 +1,17 @@
+size                  50 50 50      
+dcut                  3                 
+chg_num               100              
+injection_mode        fermi           
+calc_fermi            False             
+fermi_energy          -0.0              
+sigma                 0.1              
+niu0                  1000000000000.0   
+alpha                 1.0               
+temperature           300.0             
+elec_field            1E7 0.0 0.0   
+warm_step             0                
+max_step              5000                 
+wait_step             100                 
+analyze_step          1000             
+continue              False             
+calc_dos              False             
